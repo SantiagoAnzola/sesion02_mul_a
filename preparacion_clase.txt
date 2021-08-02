@@ -1,0 +1,5 @@
+Revise diferentes paginas web para lograr estudiar los  respectivos sistema de coordenadas:
+	-https://es.wikipedia.org/wiki/Sistema_de_coordenadas
+	-https://tightwriters.com/como-graficar-coordenadas-polares-con-valores-negativos/
+	-https://sites.google.com/site/calculovectorialhakim/coordenadas-cilindricas-y-esfericas
+	-http://hyperphysics.phy-astr.gsu.edu/hbasees/sphc.html
